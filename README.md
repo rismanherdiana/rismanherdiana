@@ -4,7 +4,7 @@
 -  🔭 I’m currently working on Laravel, Javascript ...
 -  🌱 I'm currently studying Go, AWS (SQS, SNS, Lambda), Microservices, CQRS, Event Sourcing, DDD ...**
 -  ❤️ Lover of Agile (Lean, Kanban, XP) and of good development practices (Clean Code, Refactore, TDD)
--  📚 Bachelor's degree at Computer Science
+-  📚 Bachelor's degree at Informatics Engineering
 -  📫 Email me at rismanherdiana@gmail.com
 
 
