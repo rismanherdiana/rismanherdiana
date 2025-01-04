@@ -1,8 +1,7 @@
 - Hi there 👋, I'm Risman
 -  A passionate developer from Ciamis
 -  🚀 I've been working with software development since 2019
--  🔭 I’m currently working on Laravel, Javascript ...
--  🌱 I'm currently studying Go, AWS (SQS, SNS, Lambda), Microservices, CQRS, Event Sourcing, DDD ...**
+-  🔭 I’m currently working on Golang Javascript ...
 -  ❤️ Lover of Agile (Lean, Kanban, XP) and of good development practices (Clean Code, Refactore, TDD)
 -  📚 Bachelor's degree at Informatics Engineering
 -  📫 Email me at rismanherdiana@gmail.com
